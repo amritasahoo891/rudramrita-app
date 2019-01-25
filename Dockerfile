@@ -1,3 +1,3 @@
 FROM tomcat:latest
 
-COPY target/web*.war /opt/tomcat8/webapps/web.war
+COPY target/rudramrita*.war /opt/tomcat8/webapps/rudramrita.war
